@@ -1,0 +1,21 @@
+
+.cm-s-default span                { font-family: sans-serif; width:900px }
+
+.cm-s-default span.cm-menu        {color: #700;  font-size: 18px;  }
+.cm-s-default span.cm-section     {color: #730;  font-size: 16px;  }
+.cm-s-default span.cm-subsection  {color: #730;  font-size: 15px;  }
+.cm-s-default span.cm-sectiontext {color: #207;  }
+.cm-s-default span.cm-junk        {color: #aaa;  }
+.cm-s-default span.cm-features    {color: #aaa;  }
+.cm-s-default span.cm-name        {color: #008;  font-family: sans-serif; /* font-weight: bold; */ }
+.cm-s-default span.cm-desc        {color: #151;  }
+.cm-s-default span.cm-photo       {color: #3A2;  }
+.cm-s-default span.cm-price       {color: #603;  }
+.cm-s-default span.cm-choose      {color: #663399; font-style: italic }
+.cm-s-default span.cm-add         {color: #663399; font-style: italic }
+.cm-s-default span.cm-option      {color: #660066; font-size: 13px; font-style: italic }
+.cm-s-default span.cm-error       {color: red;   }
+.cm-s-default span.cm-unknown     {color: red;   }
+.cm-s-default span.cm-blank       {color: black; }
+
+
